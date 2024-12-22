@@ -12,4 +12,4 @@ La recherche d’une phrase dans un texte (dans le fichier texte) revient à fai
 Permet de trouver un chemin entre deux points A et B sur un labyrinthe.
 
 ###### Mon propre compilateur:
-Un compilateur pour mon propre langage de programmation simple. 
+Un compilateur pour mon propre langage de programmation simple, développé en utilisant Flex et Bison.
