@@ -1,0 +1,35 @@
+CONST INT B=33;
+INT A83_n, A_p_p ,Reste;	 
+FLOAT Kms, Ll6, Jn5,Jn5; 
+
+BOOL Reponse,Reponse;
+
+
+
+BEGIN
+// TEST //
+// commentaire
+sur 
+plusieurs//
+lignes //
+// test //
+If (A==2) {
+B:=5 ;
+C:=B+1 ;
+}
+A:=2;
+A :=C+D+5;
+FOR(I:=1;I<=5;I++)
+{
+B:=B+2;
+}
+
+
+ 
+
+F:=2;
+B:=50;
+Reste:=Kms;
+Reponse:=Jn5;
+
+END

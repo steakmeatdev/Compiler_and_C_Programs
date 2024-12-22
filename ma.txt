@@ -1,0 +1,37 @@
+   //ceci est un commentaire//
+    
+    INT C1N=7,ZA=-8;
+    INT A=-8.6;
+    INT D1_a,Dn,Pdm;
+    FLOAT S_s,KK ;
+    INT E_4;
+    CONST FLOAT E_g4=5.3,ZAA=8.2;
+    BOOL DEE=false;
+
+    
+
+    
+BEGIN
+E_g4:=4;
+
+    KK:=DEE;
+    Pdm:=Pdm+6;
+    D1_a:=0;
+    If(C1N < 5){
+       E_4:=Pdm+Pdm;
+        
+        D1_a := 6;
+    }else{
+        D1_a:=5+Pdm;
+    }
+    FOR(Dn:=1;Dn>5;Dn++)
+    {
+        Dn:=C1N+Dn;
+        Dn:=C1N/0;
+ 
+    }
+    WHILE(Dn==5){
+       Dn:=C1N/0;
+    }
+    
+END
