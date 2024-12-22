@@ -12,4 +12,4 @@ La recherche d’une phrase dans un texte (dans le fichier texte) revient à fai
 Permet de trouver un chemin entre deux points A et B sur un labyrinthe.
 
 ###### Mon propre compilateur:
-Un compilateur pour mon propre langage de programmation simple, développé en utilisant Flex et Bison.
+Développement d'un mini-compilateur pour le langage CodeL : Réalisation d'un compilateur incluant les phases d'analyse lexicale, syntaxique et sémantique à l'aide de FLEX et Bison. Gestion de la table des symboles et traitement des erreurs avec indication des lignes et colonnes. Ajout du support pour des instructions arithmétiques, conditionnelles, boucles, et commentaires conformément aux spécifications du langage.
